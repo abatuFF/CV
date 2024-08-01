@@ -19,7 +19,7 @@ Hello, I am a **Backend Python Developer** specializing in web development. My t
 
 ## 👩🏼‍🎓 Education
 
-**Back end Developer**: <br>
+**Backend Developer**: <br>
 [Geeks](https://geeks.kg/) _(Apr 2024 - Aug 2024)_, <br> 
 [It Academy](https://www.instagram.com/p/CqVJ7p6s8SZ/?img_index=1) _(Apr 2021 - Mar 2022) <br>
 
